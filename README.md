@@ -1,10 +1,10 @@
-====================================================================================================================================================================================================================================================================== 
+ 
 **This guide is stritctly for EDUCATIONAL purposes only and should never be used for any malicious purposes.  
 Myself and all other code contributors are in no way shape or form liable IN ANY WAY for you being an idiot. 
 You have been warned.**
 **(Before you do anything, make sure you are on a LINUX, YES LINUX, OS..It does not matter what distro you like as long as you are gaming apex on LINUX, this is not for windows.
 No we cannot port this incredible cheat to Windows, you guys are awful.)**
-====================================================================================================================================================================================================================================================================== 
+ 
 
 // DEPENDENCIES \\
 -------------------

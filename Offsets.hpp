@@ -46,7 +46,7 @@ constexpr long OFF_NAMEINDEX = 0x057c;                        //[RecvTable.DT_Ba
 
 // Weapon
 constexpr long OFF_WEAPON_HANDLE = 0x1914;                    //[RecvTable.DT_BaseCombatCharacter]->m_latestPrimaryWeapons
-constexpr long OFF_WEAPON_INDEX = 0x1544;                     //[RecvTable.DT_WeaponX]->m_weaponNameIndex
+constexpr long OFF_WEAPON_INDEX = 0x1758;                     //[RecvTable.DT_WeaponX]->m_weaponNameIndex
 constexpr long OFF_WEAPON_AMMO = 0x1534;                      //[RecvTable.DT_PropSurvival]->m_ammoInClip
 constexpr long OFF_GRENADE_HANDLE = 0x1924;                   //[RecvTable.DT_Player]->m_latestNonOffhandWeapons
 constexpr long OFF_SKIN = 0x0d38;                             //[RecvTable.DT_BaseAnimating]->m_nSkin
